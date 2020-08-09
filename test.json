@@ -1,0 +1,8 @@
+{
+  "algorithm": "Pascal",
+  "nethash": "810 Gh",
+  "poolhash": "10 Th",
+  "workers": "11",
+  "fee": "2%",
+  "period": "Every block"
+}
